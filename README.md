@@ -6,6 +6,8 @@ I am now focusing on developing mobile applications. Hopefully we can work toget
 - 💬 Ask me about **dart and react**
 
 - 📫 How to reach me **agussalim210420@gmail.com**
+  
+- 📞 Contact Me via WA **081260139463**
 
 - ⚡ Fun fact **well, Our brains are still full of mysteries, and experts estimate we only use about 10% of their full potential. Who knows what hidden abilities we might unlock in the future?**
 
