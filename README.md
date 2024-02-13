@@ -26,7 +26,7 @@ I am now focusing on developing mobile applications. Hopefully we can work toget
 - 🏢 Universitas Mikroskil
   
 <h3 align="left">Addition</h3>
-<p><img height="110px" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=agussalim-sihombing&" alt="agussalim-sihombing" /></p>
+<p><img height="110px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=agussalim-sihombing&" alt="agussalim-sihombing" /></p>
 <p><img align="left" height="110px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusSalim-Sihombing&show_icons=true&locale=en&layout=compact" alt="agussalim-sihombing" /></p>
 <p>&nbsp;<img align="center" height="110px" src="https://github-readme-stats.vercel.app/api?username=AgusSalim-Sihombing&show_icons=true&locale=en" alt="agussalim-sihombing" /></p>
 
