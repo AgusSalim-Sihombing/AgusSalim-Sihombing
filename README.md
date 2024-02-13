@@ -26,10 +26,9 @@ I am now focusing on developing mobile applications. Hopefully we can work toget
 - 🏢 Universitas Mikroskil
   
 <h3 align="left">Addition</h3>
-<div>
-  <div align="left"><img  width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=agussalim-sihombing&show_icons=true&locale=en&layout=compact" alt="AgusSalim-Sihombing" /></div>
-  <div align="center">&nbsp;<img  width="320" src="https://github-readme-stats.vercel.app/api?username=agussalim-sihombing&show_icons=true&locale=en" alt="AgusSalim-Sihombing" /> </div> 
-</div>
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusSalim-Sihombing&show_icons=true&locale=en&layout=compact" alt="agussalim-sihombing" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgusSalim-Sihombing&show_icons=true&locale=en" alt="agussalim-sihombing" /></p>
+
 
 
 
