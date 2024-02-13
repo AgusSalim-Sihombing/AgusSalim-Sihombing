@@ -11,12 +11,6 @@ I am now focusing on developing mobile applications. Hopefully we can work toget
 
 - ⚡ Fun fact **well, Our brains are still full of mysteries, and experts estimate we only use about 10% of their full potential. Who knows what hidden abilities we might unlock in the future?**
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/m-agus-salim-774002256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. agus salim" height="30" width="40" /></a>
-<a href="https://instagram.com/aguss_sihombing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguss_sihombing" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Programming Languages :</h3>
 
 - ⚛ React
