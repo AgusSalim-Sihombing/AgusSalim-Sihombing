@@ -27,7 +27,7 @@ I am now focusing on developing mobile applications. Hopefully we can work toget
   
 <h3 align="left">Addition</h3>
 <p><img align="left" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusSalim-Sihombing&show_icons=true&locale=en&layout=compact" alt="agussalim-sihombing" /></p>
-<p>&nbsp;<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=AgusSalim-Sihombing&show_icons=true&locale=en" alt="agussalim-sihombing" /></p>
+<p>&nbsp;<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=AgusSalim-Sihombing&show_icons=true&locale=en" alt="agussalim-sihombing" /></p>
 
 
 
